@@ -1,7 +1,7 @@
 # itcompany
 IS Projekat 2018/19  
 
-Ivona Urošević: koordinisati podelom posla, identifikacijom zadataka, unošenjem istih u sistem za kontrolu verzija  
+Ivona Jurošević: koordinisati podelom posla, identifikacijom zadataka, unošenjem istih u sistem za kontrolu verzija  
 
 Aleksandra Ilić: koordinisati pravljenjem predloga arhitekture  
 

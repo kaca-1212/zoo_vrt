@@ -1,4 +1,4 @@
-# itcompany
+# zoo_vrt
 IS Projekat 2018/19  
 
 Ivona Jurošević: koordinisati podelom posla, identifikacijom zadataka, unošenjem istih u sistem za kontrolu verzija  

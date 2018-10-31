@@ -10,3 +10,6 @@ Tatjana Damnjanović: koordinisati osmišljavanjem inicijalne strukture repozito
 Katarina Dimitrijević: koordinisati pravljenjem prototipa  
 
 Jovan Marić: koordinisati modeliranje baze podataka
+
+
+Overleaf link:https://www.overleaf.com/8779733458ymvtynybwctb

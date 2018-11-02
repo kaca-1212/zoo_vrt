@@ -1,1 +1,0 @@
-Ovde se nalaze svi .vpp fajlovi slučajeva upotrebe.

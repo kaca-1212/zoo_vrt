@@ -1,0 +1,1 @@
+Ovde se nalaze svi .vpp fajlovi dijagrama aktivnosti, kao i njihove slike sa istim imenom kao i odgovarajuci .vpp fajl.

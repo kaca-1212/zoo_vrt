@@ -1,0 +1,1 @@
+Ovde se nalaze svi fajlovi i folderi vezani za bazu podataka.

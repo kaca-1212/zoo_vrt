@@ -1,0 +1,1 @@
+Slike GUI Anketiranja
